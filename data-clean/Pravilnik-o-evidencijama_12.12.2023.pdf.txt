@@ -1,0 +1,110 @@
+ 
+1 
+Temeljem članka 9. Statuta Sveučilišta Algebra, a u skladu s  Pravilnikom o sadržaju i korištenju 
+informacijskih sustava u visokom obrazovanju („Narodne novine“ 36/2023) , Senat Sve učilišta Algebra na 
+svojoj prvoj sjednici održanoj 12. prosinca  2023. godine donosi  
+ 
+P R A V I L N I K  O  E V I D E N C I J A M A  
+ 
+1.  O P Ć E  O D R E D B E  
+ 
+Predmet i svrha  Pravilnika  
+(1) Pravilnikom o evidencijama  propisuju se  evidencije u visokom obrazovanju koje se vode na Sveučilištu 
+Algebra što uključuje način vođenja  evidencija , postupak unosa  i izmjena podataka te ovlaštenja za 
+unos  i ovjeru podatka . 
+ 
+Pojmovi i njihova značenja  
+(1) Evidencija je svaki skup strukturiranih, uređenih, međusobno povezanih i usklađenih podataka koju 
+vodi Sveučilište Algebra.  
+(2) Podatkovni sadržaj je skup podataka koji uključuje osobne podatke u skladu s propisima koji reguliraju 
+zaštitu osobnih podataka, kao i druge podatke koji se obrađuju u evidencijama i registrima sa svrhom 
+obavljanja zakonom određenih poslova i zadaća javnop ravnih tijela.  
+2. E V I D E N C I J E  U  V I S O K O M  O B R A Z O V A N J U  
+ 
+Infoeduka  
+(1) Evidencije Sveučilišta Algebra koje se odnose na podatke u visokom obrazovanju vode se u 
+informacijsk om sustav u Infoeduka koji je  interoperabilan  sa središnjom evidencijom nadležnog 
+ministarstva.  
+(2) U informacijskom sustavu Infoeduka vode se sljedeće evidencije : 
+a) evidencije osoba prijavljenih za upisni postupak   
+b) evidencije studenata  
+c) evidencija svjedodžbi, diploma i dopunskih isprava o studiju  
+d) evidencij a zaposlenika  
+e) druge evidencije . 
+ 
+Evidencije osoba prijavljenih za upisni postupak  
+(1) U evidenciji osoba prijavljenih za upisni postupak  vode se osobni podaci o prijavljenima za upisni 
+postupak, podaci o uspjehu u prethodnom obrazovanju , podaci potrebni za ostvarivanje prava na upis 
+na studij po posebnim propisima  i rezultati postupka .  
+2 
+(2) Osobn e poda tke, poda tke o uspjehu u prethodnom obrazovanju i poda tke potrebn e za ostvarivanje 
+prava na upis na studij po posebnim propisima  unose o sobe prijavljene za upis , a ovjerava  Prijavni 
+ured Sveučilišta Algebra na temelju vjerodostojnih dokumenata koje je dostavila osoba prijavljena za 
+upisni postupak .  
+(3) Podatke o  rezultati ma postupka  unosi Prijavni ured Sveučilišta Algebra  u skladu s podatkovnim 
+sadržajem propisanim u Prilogu 1. Pravilnika o sadržaju i korištenju informacijskih sustava u visokom 
+obrazovanju  te temeljem provedenog prijavnog, odnosno upisnog postupka . 
+(4) Podatci  u evidenciji osoba prijavljenih za upisni postupak ne mogu se naknadno  mijenjati .  
+ 
+Evidencije studenata  
+(1) U evidenciji studenata vode se p odaci o studentima i studentskim ispravama, poda ci o studiranju, 
+mobilnosti, napredovanju studenta kroz studij  i stečenim kvalifikacijama . 
+(2) Osobni podaci o studentima i podaci o prethodnom obrazovanju preuzimaju se iz evidencije o osobama 
+prijavljenima za upisni postupak. Izmjene u osobnim podatcima studenta koje su nastale nakon unosa 
+u okviru prijavnog i upisnog postupka rade se temeljem zahtjeva koji student podnosi studentskoj 
+referadi uz dostavljanje odgovarajućih dokaza.  
+(3) Podaci o studiranju i napredovanju studenta kroz studij koji uključuju podatkovni  sadržaj propisan u 
+Prilogu 2. Pravilnika o sadržaju i korištenju informacijskih sustava u visokom obrazovanju , autentični 
+su podatci koji nastaju na Sveučilištu Algebra . Podatke o studiranju  i napredovanju studenta kroz studij 
+mogu unositi studentska referada te nastavnici na studiju na kojem je upisan student.  Poda tke o 
+mobilnosti studenata na studiju  upisuje Odjel  za međunarodnu suradnju Sveučilišta Algebra.   
+ 
+Evidencija izdanih isprava o završetku studija  
+(1) Evidencij a izdanih isprava o završetku studija te stečenih stručnih naziva  sadrži  osnovne osobne 
+podatke o osobama koje su završile studij, o studiju, ostvarenim rezultatima studenta tijekom studija i 
+druge podatke potrebne za izdavanje javnih i dopunskih isprava o studiju  te digitalizirane javne i 
+dopunske isprave o studiju.  Podatke o izdanim ispravama o završetku studija vodi studentska referada.  
+(2) Sveučilište  Algebra  kao stvaratelji javnih  i dopunskih  isprava o studiju dužn o je do 1. studenoga tekuće 
+kalendarske godine, u skladu s podatkovnim sadržajem propisanim u Prilogu 3. Pravilnika  o sadržaju i 
+korištenju informacijskih sustava u visokom obrazovanju , u digitalni oblik pretvoriti podatke o 
+diplomama i drugim javnim ispravama u visokom obrazovanju iz prethodne akademske godine te ih 
+dostaviti u Središnju evidenciju . 
+ 
+Evidencija zaposlenika  
+(1) U evidenciji zaposlenika Sveučilišta Algebra  vode se osobni podaci o zaposlenima te sudionicima u 
+nastavi, njihovim osnovnim kvalifikacijama, nastavnom opterećenju u nastavi i znanosti u skladu s 
+posebnim propisima u znanosti, visokom obrazovanju i osiguravanju kvalitete . 
+(2) Osnovn e poda tke o sudionicima u nastavi, s tatusn e poda tke i poda tke o opterećenju, kvalifikacijama i 
+napredovanju u informacijski sustav Sveučilišta Algebra , u skladu s podatkovnim sadržajem propisanim  
+3 
+u Prilogu 4. Pravilnika o sadržaju i korištenju informacijskih sustava u visokom obrazovanju unosi Odjel 
+za podršku nastavi  Sveučilišta Algebra . 
+ 
+Preuzimanje , ovjer a i dostava u središnju evidenciju  
+(1) Podatke o studentima i zaposlenicima iz evidencija propisanih ovim pravilnikom Sveučilišt e Algebra  
+može preuz imati  i iz temeljnih registara javnopravnih tijela .  
+(2) Ovlasti za ovjeru podataka imaju : 
+a) rektor  
+b) prorektor i 
+c) rukovoditelj / rukovoditeljica Sektora za stručne službe . 
+(3) Informacijski sustav Infoeduka  biljež i sve promjene o subjektu evidencije s navedenim razlogom i 
+datumom promjene  u skladu s ovlastima propisanima ovim Pravilnikom .  
+(4) Skupove  podataka iz priloga 1. – 4. Pravilnika o sadržaju i korištenju informacijskih sustava u visokom 
+obrazovanju  Sveučilište Algebra, prema uputama nadležnog Ministarstva, dostavlja u središnju 
+evidenciju .  
+(5) Podaci iz evidencija osoba prijavljenih za upisni postupak  dostavljaju se u središnju evidenciju po 
+završetku upisnog postupka. Podatci o ostalim evidencijama ažurira ju se  najkasnije u roku od 15 dana 
+od dana saznanja o nastanku ili promjeni podatka te se redovito dostavlja ju u središnju evidenciju 
+nadležnog m inistarstva . 
+(6) Evidencije iz ovog Pravilnika čuvaju se trajno . 
+3.  P R IJ E L A Z N E  I  Z A V R Š N E  O D R E D B E  
+ 
+(1) Za tumačenje odredbi ovog Pravilnika nadležan je Senat  Sveučilišta Algebra.  
+ 
+(1) Pravilnik stupa na snagu danom donošenja . 
+ 
+KLASA:  602-03/23 -01/11 
+URBROJ:  251-785-02-23-37 
+Stranica:  3 
+Napisala:  Radna skupina  
+Donio:  Senat  
