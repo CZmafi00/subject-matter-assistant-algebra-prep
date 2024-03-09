@@ -1,0 +1,43 @@
+Podatkovna znanost Podatkovna znanost je jedan od četiri smjera stručnog diplomskog studija primijenjenog računarstva.
+Prijavi se
+
+Izbornik O smjeru Nastavni plan Korisne informacije Suradnja s MITx Micro Masters® programom Prijavi se Broj 1 sustav osiguranja kvalitete u Hrvatskoj
+Kreiramo digitalnu budućnost u Hrvatskoj već 25 godina
+Međunarodna razmjena s više od 100 institucija
+Čak 96% bivših studenata zaposli se u roku od 3 mjeseca od diplomiranja
+
+Kada kreneš istraživati nastavni program ovog usmjerenja vidjet ćeš da ono pokriva područje analize podataka, analize društvenih mreža, afektivnog računarstva, strojnog učenja statističke analize, kvantitativnih analitičkih metoda, vizualizacije podataka, ali i temeljne poslovne koncepte primjerene diplomskoj studijskoj razini.
+Osim temeljnih znanja naučit ćeš kako sve ove vještine koristiti u stvaranju „priče“ bazirane na podacima („data driven business“). Kontekstualiziranje bazirano na podacima ili „storytelling“ smatra se jednom od najvažnijih vještina današnjice odnosno preporučuje se kao univerzalna vještina koji bismo svi trebali vježbati. Naše društvo bazirano je na “pričama” koje su podloga za načine kako komuniciramo, živimo, sanjamo.
+Kada ti uručimo zasluženu diplomu bit ćeš spreman za sve izazove podatkovne znanosti, lakoćom ćeš vrednovati i analizirati složene i nedovoljno definirane probleme iz područja struke korištenjem koncepata informacijske teorije, primijenjene matematičke teorije te najboljih inženjerskih praksi.
+Što ćeš naučiti na podatkovnom smjeru studija primijenjenog računarstva
+Na diplomskom studiju se nastavljaš usavršavati u području koje voliš. Prenijet ćemo ti napredna i aktualna znanja i vještine koje poslodavci danas traže. Da ti pokažemo o čemu se radi, naveli smo neke od njih:
+Studijski program je osmišljen prema preporukama europske SOCRATES mreže i zadovoljava akreditacijske ASIIN preporuke u okviru programa koji su više primjenjivi, sa specijalizacijom u području računarstva.
+Nastavni plan Struktura nastavnog programa
+Utjecaj disruptivnih tehnologija Strukturiranje složenih problema Rad s podacima Pravo na privatnost podataka Analiza socijalnih i društvenih mreža Analitika u oblaku Veliki skupovi podataka Utjecaj disruptivnih tehnologija Naučit ćeš kritički prosuđivati kako utječu na poslovno okruženje i procijeniti mogućnost nastanka nove disruptivne tehnologije.Strukturiranje složenih problema Usavršit ćeš se u korištenju primijenjene matematičke i informacijske teorije za analizu i vrednovanje složenih i nedovoljno definiranih problema.Rad s podacima Saznat ćeš kako se biraju prikladne metode te kako se preporučuju i biraju najbolja rješenja za probleme u postupku integracije, normalizacije i diskretizacije podataka.Pravo na privatnost podataka Usvojit ćeš pristup baziran na odredbama etičkog kodeksa koje štite pravo na privatnost.Analiza socijalnih i društvenih mreža Saznat ćeš od čega se sastoji analiza socijalnih i društvenih mreža i kako rangirati osnovne funkcije softvera koji se koristi za analizu.Analitika u oblaku Uvidjet ćeš koje su njezine prednosti, a koji nedostaci i naučiti kako primijeniti analitiku za rješavanje poslovnog problema.Veliki skupovi podataka Saznat ćeš kako primijeniti razne tehnike nad velikim skupovima podataka te preispitivati načine njihove upotrebe.Neki od poslova za koje te pripremamo:
+Podatkovni analitičar
+Očekuju te raznovrsni zadaci, kao što je razvoj analitičkih modela, rad s podacima iz različitih izvora i priprema analitičke i podatkovne infrastrukture
+Specijalist za poslovno izvještavanje
+Uvodit ćeš analitičke sustave i integrirane sustave za pohranu podataka i potporu poslovnom odlučivanju.
+Podatkovni specijalist
+Stručnjaci za otkrivanje i prikupljanje znanja skrivenog u podacima te za njihovu interpretaciju i vizualizaciju.
+Podatkovni inženjer
+Dinamično zanimanje koje, ovisno o području stručnosti, može uključivati sve od pripreme podataka i učinkovite podatkovne arhitekture, preko njihove interpretacije do sofisticirane analize.
+Voditelj projekata
+Odgovoran položaj na kojem ćeš planirati i voditi projekte poput implementacije baza podataka za analitičke sustave.
+Primjer kolegija Afektivno računarstvo Na kolegiju ćemo se upoznati s osnovama i naučiti analizirati i prepoznavati afektivna stanja. Naučit ćemo karakteristike afektivnih ekspresija i saznati na koje sve načine računalo može prikupljati podatke o korisniku (izraz lica, držanje, geste, govor, promjene u temperaturi). Govorit ćemo i o praktičnoj primjeni afektivnog računarstva, kroz razvoj modela za prepoznavanje afektivnih stanja u industrijama.
+Saznaj više
+Trajanje studija
+4 semestra (2 godine)
+Trajanje semestra
+15 radnih tjedana
++ 4 ispitna tjedna
+Ukupan broj ECTS bodova
+120
+Stručni naziv
+mag. ing. comp.
+Magistar inženjer računarstva / Magistra inženjerka računarstva (mag. ing. comp.) s naznakom završenog smjera.
+
+Certifikati koje možete položiti tijekom studija
+IT SMF – ITIL Foundation
+Introduction to Programming Using Python
+Tableau Desktop Qualified Associate

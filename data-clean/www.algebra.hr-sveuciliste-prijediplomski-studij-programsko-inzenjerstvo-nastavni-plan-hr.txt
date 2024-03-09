@@ -1,0 +1,76 @@
+Prijediplomski studij » Programsko inženjerstvo » Nastavni plan Nastavni plan Sada je pravo vrijeme da se uključiš u igru i odlučiš studirati jednu od najtraženijih grana primijenjenog računarstva te postaneš ključni igrač na digitalnom igralištu.
+Prijavi se
+
+Izbornik O smjeru Nastavni plan Korisne informacije Naši studenti Prijavi se Broj 1 sustav osiguranja kvalitete u Hrvatskoj
+Kreiramo digitalnu budućnost u Hrvatskoj već 25 godina
+Međunarodna razmjena s više od 100 institucija
+Čak 96% bivših studenata zaposli se u roku od 3 mjeseca od diplomiranja
+
+Prva godina 
+Prvi semestar 
+Kolegij ECTS PD VJ TIP
+Engleski jezik za IT 4 15 30 Obvezni 
+Matematika 5 30 30 Obvezni 
+Osnove digitalne elektronike 6 30 30 Obvezni 
+Programiranje 6 30 45 Obvezni 
+Računalni alati u poslovanju 4 15 30 Obvezni 
+Uvod u računalne mreže 5 30 30 Obvezni
+
+Drugi semestar 
+Kolegij ECTS PD VJ TIP
+Građa računala5 30 30 Obvezni 
+Matematička analiza 5 30 30 Obvezni 
+Osnove poslovne ekonomije 4 30 15 Obvezni 
+Osnove poslovnog komuniciranja 5 30 30 Obvezni 
+Strukture podataka i algoritmi 6 30 30 Obvezni 
+Uvod u baze podataka 5 30 30 Obvezni
+
+Druga godina 
+Treći semestar 
+Kolegij ECTS PD VJ TIP
+Autentikacijski sustavi i baze podataka 4 15 30 Obvezni 
+Objektno orijentirano programiranje 6 30 45 Obvezni 
+Oblikovanje baza podataka 5 30 30 Obvezni 
+Operacijski sustavi 5 30 30 Obvezni 
+Standardi u primjeni internetske tehnologije 5 30 30 Obvezni 
+Vjerojatnost i statistika 5 30 30 Obvezni
+
+Četvrti semestar 
+Kolegij ECTS PD VJ TIP
+Objektno orijentirano programiranje - praktikum u NET okolini 5 15 45 
+Obvezni Programiranje u Javi 16 30 45 Obvezni 
+Projektni menadžment 4 30 15 Obvezni 
+Projektni razvoj aplikacija 4 30 15 Obvezni 
+Razvoj web aplikacija 6 30 30 Obvezni 
+Sigurnost informacijskih sustava 15 30 30 Obvezni
+
+Treća godina 
+Peti semestar 
+Kolegij ECTS PD VJ TIP
+Organizacija i management 4 30 15 Obvezni 
+Pristup podacima iz programskog koda 5 30 30 Obvezni 
+Programsko inženjerstvo 5 30 30 Obvezni 
+Upravljanje informacijskim sustavima 4 30 15 Obvezni 
+Izrada aplikacija za mobilne uređaje 6 30 30 Izborni 
+Programiranje u Javi 26 30 30 
+Izborni Sustavi potpore odlučivanju 63030 Izborni
+
+Šesti semestar 
+Kolegij ECTS PD VJ TIP
+Interoperabilnost informacijskih sustava 5 30 30 Obvezni 
+Oblikovanje i izrada cjelovitog aplikativnog rješenja 6 15 45 Obvezni 
+Poslovni informacijski sustavi 4 30 15 Obvezni 
+Završni rad/Praksa 10 0 0
+Obvezni ICT alati u projektnom menadžmentu 5 30 30 
+Izborni Java web programiranje 5 30 30 Izborni
+
+Trajanje studija
+6 semestra (3 godine)
+Trajanje semestra
+15 radnih tjedana
++ 4 ispitna tjedna
+Ukupan broj ECTS bodova
+180
+Stručni naziv
+bacc. ing. comp.
+Prvostupnik inženjer računarstva / Prvostupnica inženjerka računarstva (bacc. ing. comp.) s naznakom smjera

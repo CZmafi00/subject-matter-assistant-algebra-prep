@@ -1,0 +1,29 @@
+Financijske potpore za poslodavce
+Poslodavci, iskoristite državnu potporu.
+Stavak 1. članka 3. Zakona o državnoj potpori za obrazovanje i izobrazbu: http://www.zakon.hr/z/501/Zakon-o-državnoj-potpori-za-obrazovanje-i-izobrazbu definira da svaki poslodavac može umanjiti osnovicu poreza na dobit za 60% za opću izobrazbu i 25% za posebnu izobrazbu, čemu se dodaje i mogućnost da mali ili mikro poduzetnik može umanjenje povećati za dodatnih 20%, a ako je srednji poduzetnik tada za dodatnih 10%, sukladno stavku 2. istog članka.
+Nadalje, isti zakon u stavku 1. članka 8. definira što sve spada u opće obrazovanje (npr. kakvi studijski programi, seminari, stručna literatura), a u članku 9. što su sve posebne izobrazbe (npr. seminari, kongresi…). Kriterij što je opće, a što posebno je u prenosivosti znanja. Dakle, ako je neko znanje dominantno usmjereno na potrebe aktualnog ili budućeg radnog mjesta kod postojećeg poslodavca, onda je to posebno obrazovanje. Ako je pak znanje prije svega namijenjeno stjecanju kvalifikacije koja je primjenjiva i kod drugih poslodavaca i na drugim radnim područjima, onda je to opće.
+Što to konkretno znači i kolika je tu ušteda za poslodavca?
+Dakle, ako mali poslodavac bilo kome od zaposlenih plati 100 kn za opće obrazovanje (npr. studij), na troškovnoj strani knjiži 180 kn (iako je platio samo 100 kn). To znači da realno umanjuje obvezu poreza na dobit (koji je 20%) na tih 80% nepostojećeg troška. Ukratko, to ima jednak efekt kao da je na cijenu obrazovanja dobio popust od (80%x20%) = 16%, jer upravo toliko plaća na kraju godine manje poreza na dobit. Srednji poslodavac ima manje popusta i to (70%x20%) = 14%, a veliki ima (60%x20%) = 12%. Kao primjer, na punu cijenu MBA studija od 18.000 EUR, to je za malog poslodavca ušteda od čak 2.880 EUR!
+Za seminare koji su često usmjereni radnom mjestu kod postojećeg poslodavca (npr. MOC ili Vmware) bi taj popust bio manji jer se tamo priznaje samo 25% inicijalno, ali ipak i to se isplati. U nastavku je tablica „efektivnog popusta“, koji ostvaruju poslodavci:
+
+Poslodavac
+Obrazovanje
+
+Opće (studiji, seminari, stručna literatura…)
+Posebno (seminari, kongresi, stručna literatura…)
+
+Mikro (0 do 9 zaposlenih)
+16%
+9%
+
+Mali (10 do 49 zaposlenih)
+16%
+9%
+
+Srednji (50 – 249 zaposlenih)
+14%
+7%
+
+Veliki (preko 250 zaposlenih)
+12%
+5%

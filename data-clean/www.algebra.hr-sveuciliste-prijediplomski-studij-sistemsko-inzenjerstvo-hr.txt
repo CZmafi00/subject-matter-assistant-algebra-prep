@@ -1,0 +1,49 @@
+Prijediplomski studij » Sistemsko inženjerstvo Sistemsko inženjerstvo Sistemski inženjeri su druga najtraženija skupina IT stručnjaka u Hrvatskoj. Ako se odlučiš za ovu karijeru, očekuje te multidisciplinarni posao koji svakodnevno donosi nove, zanimljive izazove.
+Prijavi se
+
+Izbornik O smjeru Nastavni plan Korisne informacije Naši studenti Prijavi se Broj 1 sustav osiguranja kvalitete u Hrvatskoj
+Kreiramo digitalnu budućnost u Hrvatskoj već 25 godina
+Međunarodna razmjena s više od 100 institucija
+Čak 96% bivših studenata zaposli se u roku od 3 mjeseca od diplomiranja
+
+Ovaj smjer je savršen odabir za tebe ako voliš razmišljati izvan zadanih okvira, pronalaziti rješenja kompleksnih problema ili jednostavno stvarati red iz kaosa.
+Po završetku studija, znat ćeš sve što je potrebno za primjenjivanje i održavanje složenih informacijskih sustava koji se zasnivaju na najsuvremenijoj tehnologiji današnjice. Trogodišnji stručni prijediplomski studij sistemskog inženjerstva daje ti vještine i znanja pomoću kojih ćeš moći izgraditi karijeru u stvarnom svijetu IT sistemskog inženjerstva bilo gdje u svijetu.
+Što ćeš naučiti na studiju sistemskog inženjerstva?
+Ovaj studij pruža ti vještine i znanja s kojima ćeš biti spreman započeti karijeru u Hrvatskoj i inozemstvu. Ovo je samo kratki pregled onoga što ćeš naučiti:
+Studijski program je osmišljen prema preporukama s europske SOCRATES mreže i zadovoljava kriterije relevantnih akreditacijskih agencija (npr. ABET i ASIIN) za tehničke studije.
+Nastavni plan Struktura nastavnog programa
+Računalna arhitektura Računalne mreže Operativni sustavi Sigurnost Baze podataka Poslovni informacijski sustavi Meke vještine Računalna arhitektura Prvo ćeš se upoznati s građom računala i naučiti od kojih je sve komponenata sastavljen hardver. Učit ćeš o unutarnjoj logici i arhitekturi računala, aritmetičkim i logičkim uputama, brojčanim sustavima i kodovima, složenim
+kombinacijskim logičkim sklopovima, matičnim pločama, procesorima s jednom i više jezgara, različitim tipovima memorije i još mnogo toga.Računalne mreže
+Ovo je jedno od osnovnih područja našeg studija sistemskog inženjerstva. Računalna mreža omogućuje komunikaciju unutar i između IT sustava, ona je vezivno tkivo koje sve ostalo drži na okupu. Na kraju ovog vrlo zanimljivog i sadržajnog putovanja, bit ćeš spreman implementirati najsloženije mreže koje se danas upotrebljavaju u suvremenim IS sustavima.
+Operativni sustavi Vjerojatno već znaš da se danas svi koriste nekom vrstom operativnog sustava u obavljanju
+svog posla. Operativni sustavi su kao mozak koji obavlja sve izračune i donosi sve odluke. Na
+kraju ovog studija, upotrijebit ćeš svoj mozak i sve vještine i znanja koje stekneš na studiju za pokretanje i prilagođavanje infrastrukture operativnih sustava modernih kompanija i održavati ih u savršenom stanju.Sigurnost Sigurnost je vrlo važan dio IT sustava i kao sistemski inženjer ti si odgovoran za održavanje visoke razine sigurnosti informacijskog sustava. Nakon što položiš sve potrebne kolegije, moći ćeš implementirati različite sigurnosne tehnologije u žične i bežične mreže, provoditi očvršćivanje operativnih sustava i koristiti se vatrozidovima iduće generacije za izgradnju sigurnih kanala preko javne mreže kako bi
+se udaljeni korisnici mogli sigurno spajati sa središtem tvrtke.Baze podataka Kao sistemski inženjer bit ćeš zadužen za instalaciju, održavanje i zaštitu ove ključne komponente IT sustava. Bez baza podataka, ne
+bi bilo nikakvog odaziva, čak ni tvoja lozinka za prijavu ne bi radila. U ovom dijelu studija, naučit ćeš sve o bazama podataka i njihovoj ulozi u informacijskom sustavu. Znanje i vještine koje
+ovdje stekneš vrlo su tražene na tržištu rada.Poslovni informacijski sustavi Ako prikupiš mnogo podataka i čak iz njih izvučeš informacije i stekneš znanje, to neće biti od velike koristi za poslovanje, ako te
+informacije ne znaš organizirati na način koji će biti smislen tvojim klijentima. Zato je važno
+naučiti kako rade i kako se implementiraju sustavi ERP, CMS i CRM te kako oni djeluju kao
+potpora poslovnom odlučivanju.Meke vještine Ako misliš da meke vještine nisu važne u današnjem dinamičnom svijetu punom raznolikosti, varaš se. Neophodno je važno da ti kao sistemski inženjer možeš jasno komunicirati i predstaviti rješenja tako da ih klijenti i partneri mogu razumjeti. To je ključno kako bi ti mogao učinkovito provesti svoje zamisli. To je ono što čini razliku između tehničara i sistemskog
+inženjera šampiona.Dodatna mogućnost za studij koji se u potpunosti izvodi na engleskom jeziku
+Sveučilište Algebra u suradnji s Goldsmiths, University of London za ovaj studijski smjer studentima omogućuju stjecanje dodatne, britanske diplome.
+Neki od poslova za koje te pripremamo:
+Upravitelj sigurnosti informacijskih sustava
+Preuzmi brigu za čitav sustav sigurnosti. Isplaniraj ga, postavi i brini se za njegovo održavanje.
+Razvoj i upravljanje informacijskim sustavima
+Ovo je savršen posao za sve koji vole rješavati probleme u dinamičnom okruženju. Nadgledat ćeš instalaciju i rad kompleksnih sustava te sudjelovati u strateškom planiranju i kontroli kvalitete.
+Vođenje IT projekata
+Stručnjaci s dobrim poznavanjem metodologije projekta važan su čimbenik u upravljanju širokim nizom projekata u području informacijskih tehnologija.
+Razvoj poslovnih informacijskih sustava
+Visokokvalitetni informacijski sustavi uvelike mogu povećati konkurentnost tvrtke, a za njihovu izradu potrebni su stručnjaci iz područja sistemskog inženjerstva.
+Primjer kolegija Virtualizacija IT infrastrukture Na kolegiju ćemo saznati koje su sve virtualizacijske tehnologije dostupne na tržištu i uspoređivati njihove prednosti i mane. Naučit ćeš kako izabrati najučinkovitije virtualizacijsko rješenje za bilo koji problem. Bavit ćemo se i udaljenom administracijom, postavkama virtualnih mašina i SCVMM-om.
+Saznaj više
+Trajanje studija
+6 semestra (3 godine)
+Trajanje semestra
+15 radnih tjedana
++ 4 ispitna tjedna
+Ukupan broj ECTS bodova
+180
+Stručni naziv
+bacc. ing. comp.
+Prvostupnik inženjer računarstva / Prvostupnica inženjerka računarstva (bacc. ing. comp.) s naznakom smjera

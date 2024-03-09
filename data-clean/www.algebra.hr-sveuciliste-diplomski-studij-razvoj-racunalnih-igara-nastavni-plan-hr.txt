@@ -1,0 +1,58 @@
+Diplomski studij » Razvoj računalnih igara » Nastavni plan Nastavni plan Znamo da ti ne nedostaje mašte. Sigurni smo da imaš ideja. Nedostaje ti još samo znanje da svoju maštu i ideje pretočiš u čudesne digitalne pustolovine.
+Prijavite se
+
+Izbornik O smjeru Nastavni plan Korisne informacije Prijavi se Broj 1 sustav osiguranja kvalitete u Hrvatskoj
+Kreiramo digitalnu budućnost u Hrvatskoj već 25 godina
+Međunarodna razmjena s više od 100 institucija
+Čak 96% bivših studenata zaposli se u roku od 3 mjeseca od diplomiranja
+
+Prva godina 
+Prvi semestar 
+Kolegij ECTS PD VJ TIP
+Inovativni projekt 1 - Ideja i planiranje proizvoda i usluga 8 15 0 Obvezni 
+Kreativnost i kritičko mišljenje 3 30 15 Obvezni 
+Planiranje računalnih igara 4 9 45 Obvezni 
+Razvoj računalnih igara 5 9 45 Obvezni 
+Konceptualna i primijenjena 2D umjetnost za računalne igre 5 15 30 Izborni 
+Matematičke osnove razvoja igara 5 15 30 Izborni
+Temeljne tehnike programiranja 5 15 30 Izborni 
+Uvod u 3D modeliranje za računalne igre 5 15 30 Izborni
+
+Drugi semestar
+Kolegij ECTS PD VJ TIP
+Inovativni projekt 2 - Razvoj proizvoda ili usluga 6 6 9 Obvezni 
+Primijenjeni Dev Ops 5 15 30 Obvezni 
+Racionalni dizajn igara i razina 4 15 30 Obvezni 
+Razvoj 3D igara 5 15 30 Obvezni 
+Napredni razvoj računalnih igara 5 15 30 Izborni 
+Napredno 3D modeliranje za računalne igre 5 15 30 
+Izborni Narativni dizajn 5 15 30 
+Izborni Razvoj igara za više igrača 5 15 30 Izborni
+
+Druga godina 
+Treći semestar 
+Kolegij ECTS PD VJ TIP
+Inovativni projekt 3 - go to market strategije 6 6 9 Obvezni 
+Mobilne i hiperkazualne igre 5 15 30 Obvezni 
+Monetizacija i marketing računalnih igara 4 15 30 Obvezni
+3D animacija u računalnim igrama 5 15 30 Izborni 
+Primjena virtualne i proširene stvarnosti 5 15 30 Izborni 
+Programiranje podrške za 3D modele 5 15 30 Izborni 
+Razvoj scenarija računalnih igara 5 15 30 Izborni 
+Skriptiranje računalnih igara 5 15 30 Izborni 
+Vizualni efekti u računalnim igrama 5 15 30 Izborni
+
+Četvrti semestar
+Kolegij ECTS PD VJ TIP
+Diplomski rad 30 0 0 Obvezni
+
+Trajanje studija
+4 semestra (2 godine)
+Trajanje semestra
+15 radnih tjedana
++ 4 ispitna tjedna
+Ukupan broj ECTS bodova
+120
+Stručni naziv
+mag. ing. comp.
+Magistar inženjer računarstva / Magistra  inženjerka računarstva (mag. ing. comp.) s naznakom završenog smjera.

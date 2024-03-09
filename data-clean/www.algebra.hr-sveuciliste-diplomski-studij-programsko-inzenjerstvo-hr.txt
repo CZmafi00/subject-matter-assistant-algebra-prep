@@ -1,0 +1,41 @@
+Programsko inženjerstvo Programerski smjer je jedan od četiri smjera stručnog diplomskog studija primijenjenog računarstva, koji danas osigurava izvrsnu zapošljivost.
+Prijavi se
+
+Izbornik O smjeru Nastavni plan Korisne informacije Prijavi se Broj 1 sustav osiguranja kvalitete u Hrvatskoj
+Kreiramo digitalnu budućnost u Hrvatskoj već 25 godina
+Međunarodna razmjena s više od 100 institucija
+Čak 96% bivših studenata zaposli se u roku od 3 mjeseca od diplomiranja
+
+Kad ti uručimo zasluženu diplomu, bit ćeš specijalist u danas vrlo traženim područjima unutar programskog inženjerstva.
+Među njima su: programiranje za Internet, razvoj aplikacija za mobilne uređaje, napredne tehnike programiranja uz korištenje nekoliko dominantnih tehnologija, implementacija projekata baziranih na Internetu stvari i računalnoj robotici te razvoj rješenja baziranih na poslovnoj inteligenciji.
+Uz to ćeš se, među ostalim, upoznati s računalnom kriptografijom, e-poslovanjem i razvojem računalnih igara, ovisno o izbornim područjima koja izabereš.
+Što ćeš naučiti na diplomskom studiju programskog inženjerstva?
+Na diplomskom studiju se nastavljaš usavršavati u području koje voliš. Prenijet ćemo ti napredna i aktualna znanja i vještine koje poslodavci danas traže. Da ti pokažemo o čemu se radi, naveli smo neke od njih:
+Studijski program je osmišljen prema preporukama europske SOCRATES mreže i zadovoljava akreditacijske ASIIN preporuke u okviru programa koji su više primjenjivi, sa specijalizacijom u području računarstva.
+Nastavni plan Struktura nastavnog programa
+Visoka stručnost u Javi, C#, Python-u Analiza i kritičko razmišljanje Napredni modeli analize podataka Internet stvari i računalna robotika Analiza i dizajn softverskih rješenja Samostalnost Visoka stručnost u Javi, C#, Python-u
+Usavršit ćeš napredne vještine i složene koncepte programiranja u aktualnim programskim jezicima (Java, C#, Phyton), razvojnim alatima i korištenju objektno orijentiranog pristupa i najboljih praksi (engl. Design Patterns).
+Analiza i kritičko razmišljanje Razvit ćeš precizni, analitički pristup rješavanju problema koji su često neobični, dijelom nedefinirani i imaju oprečne zahtjeve. To će ti omogućiti da nakon studija lakše rješavaš složene probleme i izazove korisnika.Napredni modeli analize podataka Naučit ćeš analizirati i prepoznavati uzorke, upoznati ćeš temeljne tehnike rudarenja podataka i poslovne inteligencije uz korištenje stohastičkih modela.Internet stvari i računalna robotika Naučit ćeš samostalno razviti Io T proizvod ili uslugu. Ući ćeš u svijet računale robotike, naučiti mnogo o izboru platforme, senzora i mikrokontrolera, konceptu usluga u oblaku (engl. Cloud services) i programiranju klijentskog rješenja baziranom na konceptu Io T.Analiza i dizajn softverskih rješenja Ovladat ćeš analizom i dizajnom softverskih rješenja, naučiti implementirati IT sustave bazirane na interoperabilnosti distribuiranih programmeskih rješenja te istražiti složene aspekte sigurnosti računalnih aplikacija i kriptozaštite podataka.Samostalnost
+Usvojit ćeš potrebne karakteristike za samostalnu karijeru na najvišoj razini, kao što su odgovornost i profesionalni radni standardi.
+Neki od poslova za koje te pripremamo:
+Softverski inženjer
+Ovisno o području zanimanja, radit ćeš s bazama podataka, mobilnim ili web aplikacijama ili ćeš implementirati poslovna rješenja i razvijati njihovu arhitekturu.
+Projektant poslovnih sustava
+Sudjeluj u izradi informacijskih sustava o kojima ovise tvrtke.
+Izrada Internet aplikacija
+Bilo da se traži specijalist za .NET, Javu ili Python, tvoje vještine će odgovarati opisu posla.
+Razvoj računalnih igara
+Programeri su traženi i u malim game studijima i u divovima industrije, poput Bethesde, Blizzarda ili Ubisofta.
+Projektiranje baza podataka
+Stručnjak za baze podataka je zadužen za sve faze razvoja. Projektiranje, izradu i programiranje.
+
+Trajanje studija
+4 semestra (2 godine)
+Trajanje semestra
+15 radnih tjedana
++ 4 ispitna tjedna
+Ukupan broj ECTS bodova
+120
+Stručni naziv
+mag. ing. comp.
+Magistar inženjer računarstva / Magistra  inženjerka računarstva (mag. ing. comp.) s naznakom završenog smjera.

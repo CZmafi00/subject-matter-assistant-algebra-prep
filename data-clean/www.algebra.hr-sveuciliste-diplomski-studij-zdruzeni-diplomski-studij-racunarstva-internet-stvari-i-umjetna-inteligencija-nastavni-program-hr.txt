@@ -1,0 +1,64 @@
+Združeni diplomski studij računarstva – Internet stvari i Umjetna inteligencija » Nastavni plan Nastavni plan Združeni diplomski studij Računarstva – Internet stvari i umjetna inteligencija zajedno su razvili Sveučilište Algebra i EPITECH.
+Prijavi se
+
+Izbornik O smjeru Nastavni plan Upisi Prijavi se Broj 1 sustav osiguranja kvalitete u Hrvatskoj
+Kreiramo digitalnu budućnost u Hrvatskoj već 25 godina
+Međunarodna razmjena s više od 100 institucija
+Čak 96% bivših studenata zaposli se u roku od 3 mjeseca od diplomiranja
+Lecture plan
+
+Year of study: 1, Algebra, Croatia
+Semester: 1
+COURSE ECTS STATUS
+Innovative Project 1 7 O
+Data preparation and introduction to data visualization 4 O
+Application of Scripting Languages 5 O
+Quantitative methods and modeling 4 O
+Embedded Platforms and Operating Systems 5 O
+Advanced Mobile Programming 5 E
+Advanced Application Development Based on Development Templates 5 E
+
+Semester: 2
+COURSE ECTS STATUS
+Innovative Project 2 8 O
+Machine learning concepts and techniques 4 O
+Sensors and Actuators 5 O
+Wireless Computer Networks 1 4 O
+Advanced Information Systems Interoperability 4 E
+Computer Vision Fundamentals 5 E
+Advanced Programming Paradigms 5 E
+Rapid Development of Java Applications Using Programming Frameworks 5 E
+
+Year of study: 2, EPITECH, France
+Semester: 3
+COURSE ECTS STATUS
+Innovative Project 3 15 O
+Advanced C++ 10 E1
+Application Development 10 E1
+Functional Programming 10 E1
+Web Security 4 E2
+Progressive Web App 4 E2
+Dev Ops Level 1 2 E2
+Dev Ops Level 2 3 E2
+Graphs Algorithm and Matching 3 E2
+Advanced Visualization of Massive Data 3 E2
+React Native 4 E2
+Applied Artificial Intelligence 5 E2
+
+Semester: 4
+COURSE ECTS STATUS
+Final Internship and Graduation Thesis 30 O
+
+IMPORTANT NOTE: O = obligatory course, E = elective course.
+
+Trajanje studija
+4 semestra (2 godine)
+Trajanje semestra
+15 radnih tjedana
++ 4 ispitna tjedna
+Ukupan broj ECTS bodova
+120
+Stručni naziv
+Magistar Interneta stvari i umjetneinteligencije / Magistra  Interneta stvari i umjetne inteligencije.
+Stručni naziv EPITECH
+Stručnjak informacijske tehnologije / Stručnjakinja informacijske tehnologije.

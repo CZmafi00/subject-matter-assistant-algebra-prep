@@ -1,0 +1,37 @@
+Prijediplomski studij » Programsko inženjerstvo Programsko inženjerstvo Sada je pravo vrijeme da se uključiš u igru i odlučiš studirati jednu od najtraženijih grana primijenjenog računarstva te postaneš ključni igrač na digitalnom igralištu.
+Prijavi se
+
+Izbornik O smjeru Nastavni plan Korisne informacije Naši studenti Prijavi se Broj 1 sustav osiguranja kvalitete u Hrvatskoj
+Kreiramo digitalnu budućnost u Hrvatskoj već 25 godina
+Međunarodna razmjena s više od 100 institucija
+Čak 96% bivših studenata zaposli se u roku od 3 mjeseca od diplomiranja
+
+Na našem stručnom prijediplomskom studiju očekuje te program skrojen po najsuvremenijim trendovima u industriji i prilagođen međunarodno priznatim standardima. To znači da ćeš s Algebrinom diplomom gotovo odmah biti spreman započeti poslovnu karijeru u Hrvatskoj i inozemstvu.
+Po završetku studija, imat ćeš sva potrebna znanja o programskom inženjerstvu, ovladat ćeš glavnim objektno orijentiranim jezicima .NET i JAVA, naučit ćeš programirati, razvijati i održavati složene aplikacije i informacijske sustave. U kojem god od ovih segmenata vidiš svoju budućnost, s Algebrinom diplomom joj zasigurno krećeš ususret s vjetrom u leđa.
+Što ćeš naučiti na studiju programskog inženjerstva?
+Ovaj studij pruža ti vještine i znanja s kojima ćeš biti spreman započeti karijeru u Hrvatskoj i inozemstvu. Ovo je samo kratki pregled onoga što ćeš naučiti:
+Studijski program je osmišljen prema preporukama s europske SOCRATES mreže i zadovoljava kriterije relevantnih akreditacijskih agencija (npr. ABET i ASIIN) za tehničke studije.
+Nastavni plan Struktura nastavnog programa
+Poznavanje temeljnih koncepata računarstva Objektno orijentirano programiranje Internetske tehnologije Mobilno programiranje Uvod u računalne mreže Organizacija i upravljanje tvrtkama Poznavanje temeljnih koncepata računarstva Upoznat ćeš se s osnovnim konceptima,strukturama i principima rada procesora, računalnih sustava, računalnih mreža i njihovim komponentama.Objektno orijentirano programiranje Koliko jezika znaš, toliko vrijediš, a to je posebno važno u svijetu programiranja i programskog inženjerstva. Naučit ćeš se koristiti objektno orijentiranim jezicima kao što su .NET, C#, C+, C++, Python.Internetske tehnologije
+Naučit ćeš osnove HTML-a i pravila CSS-a. Ovladat ćeš programskih jezikom Java Script i programiranjem web aplikacija u razvojnoj okolini .NET.
+Mobilno programiranje Naučit ćeš osmišljavati i razvijati interaktivne aplikacije i igre za mobilne platforme i usavršiti se u dizajniranju prilagođenih sučelja za platformu Android.Uvod u računalne mreže Savladat ćeš temeljne pojmove, strukture i principe računalnih mreža i njihovih sastavnih dijelova.Organizacija i upravljanje tvrtkama Saznat ćeš kako suvremene tvrtke funkcioniraju u digitalnoj tržišnoj ekonomiji, naučiti upravljati ljudskim potencijalima i razrješavati probleme vezane uz njih upotrebom konkretnih tehnika poslovnog odlučivanja.Neki od poslova za koje te pripremamo:
+Izrada složenih računalnih aplikacija za desktop i web
+Radit ćeš na kreiranju aplikacija i pretvarati zahtjeve korisnika u funkcionalnosti, od analize tržišta do razvoja proizvoda.
+Izrada računalnih aplikacija za mobilne uređaje
+Svakodnevno se rodi tisuću novih ideja za savršenu mobilnu aplikaciju koja će pokoriti tržište. Sudjeluj u stvaranju novog Instagrama, Whats Appa ili Twittera.
+Razvoj informacijskim sustavom i upravljanje njima
+Ovo je savršen posao za sve koji vole raditi na rješavanju problema u dinamičnom okruženju. Nadgledat ćeš instalaciju i rad složenih sustava i sudjelovati u strateškom planiranju i kontroli kvalitete.
+Vođenje projekta razvoja aplikacija
+Vodit ćeš razvojne timove i brinuti o tome da svi dijelovi tih kompleksnih sustava funkcioniraju optimalno i u skladu sa željama klijenata.
+Primjer kolegija Programiranje u Javi (1 i 2)U okviru ovog modula, studenti stječu znanja iz matematičkih koncepata i tehnika koje se primjenjuju u razvoju računalnih igara: u prvom redu linearne algebre, vektorskih prostora i njihove upotrebe u vizualizaciji (geometriji) ravnine i prostora. Naglasak je stavljen na primjenu u kontekstu računalnih igara, za razliku od uobičajenog teoretskog pristupa koji ne cilja neko određeno područje primjene. Modulom se stječu osnovne matematičke vještine u navedenim područjima, do razine potrebne za upotrebu u izradi računalnih igara – u dijelu koji se odnosi na vizualizaciju, te primjenu linearne algebre i geometrije ravnine i prostora.
+Saznaj više
+Trajanje studija
+6 semestra (3 godine)
+Trajanje semestra
+15 radnih tjedana
++ 4 ispitna tjedna
+Ukupan broj ECTS bodova
+180
+Stručni naziv
+bacc. ing. comp.
+Prvostupnik inženjer računarstva / Prvostupnica inženjerka računarstva (bacc. ing. comp.) s naznakom smjera

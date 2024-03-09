@@ -1,0 +1,27 @@
+Diplomski studij » Programsko inženjerstvo » Korisne informacije » Ishodi učenja na razini studijskog programa
+Ishodi učenja na razini studijskog programa
+Opći ishodi učenja:
+
+ Vrednovati i analizirati složene i nedovoljno definirane probleme iz područja struke korištenjem koncepata informacijske teorije, primijenjene matematičke teorije te najboljih inženjerskih praksi
+ Predlagati inovativna rješenja u području primijenjenog računarstva kritičkom analizom i vrednovanjem aktualnih spoznaja, modela i rješenja iz područja struke, upotrebom „rješenja najboljih praksi“ te poznatih i modificiranih problemskih scenarija
+ Primijeniti složene metode istraživanja i analize kako bi utvrdio detaljne korisničke ili organizacijske zahtjeve za informacijska rješenja ili sustave
+Prepoznati, analizirati i razložiti probleme primjene, dorade i nove implementacije postojećih informacijskih sustava u širem poslovnom kontekstu te predložiti adekvatna rješenja
+ Upravljati odnosnom s korisnicima i/ili članovima tima, prepoznajući moguće izvore nerazumijevanja i sukoba te proaktivno i učinkovito djelovati na njihovo suzbijanje
+ Osmišljati, pripremati i upravljati provedbom razvojnih projekata u području primijenjenog računarstva korištenjem priznatih metodologija, vodeći računa o dostupnim resursima, budžetu i rizicima
+ Prilikom planiranja, projektiranja i primjene informacijskih sustava biti svjestan poslovnih, organizacijskih i socioloških aspekata njihove primjene te utjecaja na okolinu (korisnika, organizaciju, društvo)
+Vrednovati poduzetničku ideju te predlagati adekvatne poslovne i organizacijske uvijete za njenu realizaciju
+Upravljati proaktivno vlastitim stručnim i osobnim razvojem, te prikupljati nova znanja i vještine u različitim okruženjima i kontekstima (npr. kroz uspješne i neuspješne projekte, kroz stalno samostalno učenje i praćenje znanstvenih i tehnoloških dostignuća, dodatnim obrazovanjem…)
+ Samostalno planirati i upravljati IT projektima unutar dostupnih resursa, preuzimajući odgovornost za osobne i timske zadatke u nepredvidljivim poslovnim uvjetima i okruženjima
+ Izvesti samostalno značajan završni projekt pri tome se vodeći postavljenim zahtjevima i standardima, primjenom modernih tehnologija, alata i metodologije
+Posebni ishodi učenja – Programsko usmjerenje;
+
+ P. Analizirati poslovne zahtjeve i na temelju njih prepoznati suštinu ključnih problema te iste rješavati primjenom poznatih i modificiranih algoritama, struktura podataka, programskih arhitektura i uzoraka (engl. design patterns) podržanih tehnikama programskog inženjerstva i adekvatnim alatima
+P. Na temelju metoda diskretne matematike, primijenjenih na ograničenim i stvarnim uzorcima (za razliku od beskonačnih i idealnih) analizirati velike količine podataka te dizajnirati i analizirati algoritme za rješavanje problema, korištenjem iterativnih pristupa i iste koristiti u softverskim rješenjima
+P. Izvrsno baratati aktualnim programskim jezicima (Java, C#, …) i razvojnim alatima te primjenjivati aktualne metodologije razvoja softverskih rješenja korištenjem objektno orijentiranog pristupa
+ P. Koristiti napredne stohastičke modele i metodologije za analizu i prepoznavanje uzoraka, rudarenje podataka i rješavanje problema iz domene poslovne inteligencije
+P. Koristiti algoritme za izradu enkripcijskih modela zaštite podataka i kodiranje u svrhu zaštite pristupa podacima unutar baza podataka, programskih rješenja i sustava elektroničkog poslovanja
+ P. Osmišljati, planirati i dizajnirati korisnička sučelja u skladu s aktualnim dostignućima dizajna, ergonomije i pristupačnosti uključujući i sučelja za korisnike sa specifičnim potrebama
+P. Osmišljati i izrađivati računalne igre visokog stupnja kompleksnosti, uključivo i one s 3D grafičkim sučeljem
+ P. Planirati i izrađivati složena interaktivna aplikacijska rješenja za mobilne platforme, uključujući dizajn prilagođenog sučelja te izradu poslovnih aplikacija i računalnih igara
+ P. Planirati i izrađivati složena rješenja bazirana na servisno orijentiranoj arhitekturi
+ P. Osmišljati i izrađivati jednostavnija programska rješenja za upravljanje u robotici te koristiti koncept Interneta stvari

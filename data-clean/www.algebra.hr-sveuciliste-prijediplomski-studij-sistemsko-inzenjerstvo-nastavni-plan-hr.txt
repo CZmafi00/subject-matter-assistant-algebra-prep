@@ -1,0 +1,79 @@
+Prijediplomski studij » Sistemsko inženjerstvo » Nastavni plan Nastavni plan Sistemski inženjeri su druga najtraženija skupina IT stručnjaka u Hrvatskoj. Ako se odlučiš za ovu karijeru, očekuje te multidisciplinarni posao koji svakodnevno donosi nove, zanimljive izazove.
+Prijavi se
+
+Izbornik O smjeru Nastavni plan Korisne informacije Naši studenti Prijavi se Broj 1 sustav osiguranja kvalitete u Hrvatskoj
+Kreiramo digitalnu budućnost u Hrvatskoj već 25 godina
+Međunarodna razmjena s više od 100 institucija
+Čak 96% bivših studenata zaposli se u roku od 3 mjeseca od diplomiranja
+
+Prva godina 
+Prvi semestar 
+Kolegij ECTS PD VJ TIP
+Engleski jezik za IT 4 15 30 Obvezni 
+Matematika 5 30 30 Obvezni 
+Osnove digitalne elektronike 6 30 30 Obvezni 
+Programiranje 6 30 45 Obvezni 
+Računalni alati u poslovanju 4 15 30 Obvezni 
+Uvod u računalne mreže 5 30 30 Obvezni
+
+Drugi semestar 
+Kolegij ECTS PD VJ TIP
+Građa računala 5 30 30 Obvezni 
+Matematička analiza 5 30 30 Obvezni 
+Osnove poslovne ekonomije 4 30 15 Obvezni 
+Osnove poslovnog komuniciranja 5 30 30 Obvezni 
+Usmjeravanje i preklapanje u računalnim mrežama 6 30 30 Obvezni 
+Uvod u baze podataka 5 30 30 Obvezni
+
+Druga godina 
+Treći semestar 
+Kolegij ECTS PD VJ TIP
+Administracija operacijskih sustava 5 30 30 Obvezni 
+Administracija otvorenih operacijskih sustava 5 30 30 Obvezni 
+Autentikacijski sustavi i baze podataka 4 15 30 Obvezni 
+Implementacija složenih mrežnih okruženja 6 30 45 Obvezni 
+Operacijski sustavi 5 30 30 Obvezni 
+Vjerojatnost i statistika 5 30 30 Obvezni
+
+Četvrti semestar 
+Kolegij ECTS PD VJ TIP
+Napredno administriranje operacijskih sustava 5 30 30 Obvezni 
+Napredno administriranje otvorenih operacijskih sustava 6 30 30 Obvezni 
+Projektni menadžment 4 30 15 Obvezni 
+Sigurnost informacijskih sustava 15 30 30 Obvezni 
+Sigurnost računalnih mreža 5 30 30 Obvezni 
+Virtualizacija IT infrastrukture 5 30 30 Obvezni
+
+Treća godina 
+Peti semestar 
+Kolegij ECTS PD VJ TIP
+Automatizacija i orkestracija u IT sustavima 6 30 30 Obvezni 
+Kolaboracijski sustavi 6 30 30 Obvezni 
+Organizacija i management 4 30 15 Obvezni 
+Upravljanje informacijskim sustavima 4 30 15 Obvezni 
+Sigurnosna pohrana i oporavak IT sustava 5 30 30 Izborni 
+Sigurnost informacijskih sustava 25 30 30 Izborni 
+Uvođenje informacijskih sustava u rad 5 30 30 Izborni 
+Virtualizacija korištenjem open source i komercijalnih rješenja 5 30 30 Izborni
+
+Šesti semestar 
+Kolegij ECTS PD VJ TIP
+Implementacija lokalnih bežičnih računalnih mreža 5 30 30 Obvezni 
+Poslovni informacijski sustavi 4 30 15 Obvezni 
+Sistemsko inženjerstvo - Praktikum 6 15 45 Obvezni 
+Završni rad/Praksa 10 0 0 Obvezni 
+ICT alati u projektnom menadžmentu 5 30 30 Izborni 
+Implementacija računarstva u oblaku 5 30 30 Izborni I
+mplementacija Voice over IP rješenja 5 30 30 Izborni 
+Softverski definirane mreže 5 30 30 Izborni
+
+Trajanje studija
+6 semestra (3 godine)
+Trajanje semestra
+15 radnih tjedana
++ 4 ispitna tjedna
+Ukupan broj ECTS bodova
+180
+Stručni naziv
+bacc. ing. comp.
+Prvostupnik inženjer računarstva / Prvostupnica inženjerka računarstva (bacc. ing. comp.) s naznakom smjera

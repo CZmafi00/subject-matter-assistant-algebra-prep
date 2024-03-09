@@ -1,0 +1,68 @@
+Diplomski studij » Sistemsko inženjerstvo » Nastavni plan Nastavni plan Sistemski inženjeri su druga najtraženija skupina IT stručnjaka u Hrvatskoj. Očekuje te multidisciplinarni posao koji svakodnevno donosi nove, zanimljive izazove.
+Prijavi se
+
+Izbornik O smjeru Nastavni plan Korisne informacije Prijavi se Broj 1 sustav osiguranja kvalitete u Hrvatskoj
+Kreiramo digitalnu budućnost u Hrvatskoj već 25 godina
+Međunarodna razmjena s više od 100 institucija
+Čak 96% bivših studenata zaposli se u roku od 3 mjeseca od diplomiranja
+Uz obvezne kolegije, studenti se trebaju odlučiti za jednu grupu izbornih kolegija od sljedeće dostupnih:Internet of things (IOT)IT system security (CS2)IT system hardening (CS1)Upscaling IT systems (SYS1)Prikaži sve izborne kolegije
+
+Prva godina 
+Prvi semestar 
+Kolegij ECTS PD VJ TIP
+Administriranje rješenja u oblaku 530 30 Obvezni 
+Inovativni projekt 1 - Ideja i planiranje proizvoda i usluga 8 15 0 Obvezni 
+Kreativnost i kritičko mišljenje 3 30 15 Obvezni 
+Kvantitativne metode i modeliranje 4 30 30 Obvezni 
+Programiranje u Pythonu 5 15 30 Obvezni
+Implementacija operacijskih sustava 5 30 30 SYS1 
+Ugradbene platforme i operacijski sustavi 5 15 30 IOT 
+Upravljanje prijetnjama i odgovor na incidente 5 30 30 CS2 
+Zaštita ICT sustava 5 30 30 CS1
+
+Drugi semestar 
+Kolegij ECTS PD VJ TIP
+Implementacija visoke dostupnosti u ICT sustavu 5 30 30 Obvezni 
+Inovativni projekt 2 - Razvoj proizvoda ili usluga 6 6 9 Obvezni 
+Napredna automatizacija i orkestracija 5 30 30 Obvezni 
+Uvod u Dev Ops 4 15 30 Obvezni
+Bežične računalne mreže 15 15 30 IOT
+Etičko hakiranje 7 30 30 CS1 
+Integracija operacijskih sustava sa složenom infrastrukturom 5 30 30 SYS1 
+Primijenjena kriptografija 3 15 45 CS1 
+Primijenjena mrežna sigurnost 6 30 30 CS2 
+Računalne mreže koje podržavaju poslovanje 5 30 0 SYS1 
+Senzori i aktuatori 5 15 30 IOT 
+Sigurnost operacijskih sustava 4 15 30 CS2
+
+Druga godina 
+Treći semestar 
+Kolegij ECTS PD VJ TIP
+Inovativni projekt 3 - go to market strategije 6 6 9 Obvezni 
+Napredni Dev Ops 6 30 30 Obvezni 
+Rješavanje problema u ICT sustavima 4 15 30 Obvezni 
+Upravljanje kibernetičkom sigurnošću 4 30 30 Obvezni
+Bežične računalne mreže 2 5 15 30 IOT
+Digitalna forenzika 6 30 30 CS2 
+Kontinuitet poslovanja i oporavak od katastrofe 3 15 45 CS1 
+Penetracijsko testiranje 7 30 30 CS1 
+Računalne mreže - Projektni praktikum 5 30 0 SYS1 
+Sigurnost u oblaku 4 15 45 CS2 
+Virtualizacija i oblak 5 30 30 SYS1 
+Web tehnologije za IoT 5 15 30 IOT
+
+Treća godina
+Četvrti semestar 
+Kolegij ECTS PD VJ TIP
+Diplomski rad 30 0 0 Obvezni
+
+Trajanje studija
+4 semestra (2 godine)
+Trajanje semestra
+15 radnih tjedana
++ 4 ispitna tjedna
+Ukupan broj ECTS bodova
+120
+Stručni naziv
+mag. ing. comp.
+Magistar inženjer računarstva / Magistra  inženjerka računarstva (mag. ing. comp.) s naznakom završenog smjera.
