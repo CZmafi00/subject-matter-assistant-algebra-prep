@@ -1,0 +1,37 @@
+Pitanje X.
+Ljestvica 1-5
+          1 - nedovoljan
+          2 - dovoljna
+          3 - dobar
+          4 - vrlo dobar
+          5 - izvrstan
+
+Q1
+Jesu li primjećene halucinacije prilikom predikcije? (DA/NE)
+NE
+
+Q2 
+Jesu li sve informacije i podaci točni (prema dokumentaciji Sveučilišta Algebra)? (DA/NE)
+DA
+
+NLG 
+Q3
+Ocjenite relevantnost odgovora s pitanjem. (1-5)
+3
+
+04
+Ocjenite gramatičku i sintaksnu kvalitetu odgovora. (1-5)
+4
+
+NLU
+Q5
+Ocjenite razumijevanje upita od strane AI modela. (1-5)
+5
+
+Q6
+Jeste li uočili logičke pogreške u odgovoru? (DA/NE)
+NE
+
+07
+Koji je vaš ukupni dojam na generirane odgovore. (1-5)
+3
