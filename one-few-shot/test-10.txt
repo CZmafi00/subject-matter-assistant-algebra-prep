@@ -1,0 +1,86 @@
+# PROMPT (mario-16)
+
+Podatkovno inženjerstvo:
+- IT SMF ITIL Foundation
+- Introduction to Programming Using Python
+- Tableau Desktop Qualified Associate
+
+Programsko inženjerstvo:
+- ECDL Start (4 ispita)
+- IT SMF ITIL Foundation
+- Oracle Certified Associate – OCA
+- Exam AZ-204: Developing Solutions for Microsoft Azure
+- Android certified application developer
+
+Multimedijsko računarstvo:
+- ECDL Start (4 ispita)
+- IT SMF – ITIL Foundation
+- Adobe Certified Associate – (Video Communication with Adobe Premiere Pro)
+- Adobe Certified Associate (Visual Effects & Motion Graphics)
+- Adobe Certified Associate (Visual Design)
+- Adobe Certified Associate (Print & Digital Media Publications
+- Google AdWords Qualified Individual
+- Zend Certified PHP Engineer
+
+Digitalni marketing:
+- ECDL Start (4 ispita)
+- Google Ads Qualified Individual
+
+3D dizajn:
+- ECDL Start (4 ispita)
+- Adobe Certified Professional – Visual Design using Photoshop
+
+Dizajn:
+- ECDL Start (4 ispita)
+- Adobe Certified Professional – Graphic Design & Illustration using Adobe Illustrator
+- Adobe Certified Professional – Visual Design using Photoshop
+
+Multimedijska produkcija:
+- ECDL Start (4 ispita)
+- Adobe Certified Professional – Digital Video using Adobe Premiere Pro
+- Adobe Certified Professional – Visual Effects & Motion Graphics using Adobe After Effects
+- Adobe Certified Professional – Visual Design using Photoshop
+- Adobe Certified Professional – Print & Digital Media Publication using Adobe InDesign
+- Adobe Certified Professional – Graphic Design & Illustration Using Adobe Illustrator
+- HTML & CSS Coding Specialist
+- PHP Coding Specialist
+
+Sistemsko inženjerstvo:
+- ECDL Start (4 ispita)
+- Red Hat Certified System Administrator – RHCSA
+- IT SMF ITIL Foundation
+- Cisco Certified Network Administrator – CCNA
+- AZ-900 Microsoft Azure Fundamentals
+- AZ-104 Microsoft Azure Administrator
+- MS-203 Microsoft 365 Messaging
+
+Koje sve industrijske certifikate mogu polagati na studiju sistemskog inženjerstva? 
+
+Na studiju sistemskog inženjerstva možete polagati sljedeće certifikate:
+- ECDL Start (4 ispita)
+- Red Hat Certified System Administrator – RHCSA
+- IT SMF ITIL Foundation
+- Cisco Certified Network Administrator – CCNA
+- AZ-900 Microsoft Azure Fundamentals
+- AZ-104 Microsoft Azure Administrator
+- MS-203 Microsoft 365 Messaging
+
+Koje sve industrijske certifikate mogu polagati na studiju dizajna? 
+
+Na studiju dizajna možete polagati sljedeće certifikate:
+- ECDL Start (4 ispita)
+- Adobe Certified Professional – Graphic Design & Illustration using Adobe Illustrator
+- Adobe Certified Professional – Visual Design using Photoshop
+
+Koje industrijske certifikate mogu steći na studiju programskog inženjerstva?
+
+# ANSWER
+Na studiju programskog inženjerstva možete steći sljedeće industrijske certifikate:
+ECDL Start (4 ispita)
+IT SMF ITIL Foundation
+Oracle Certified Associate – OCA
+Exam AZ-204: Developing Solutions for Microsoft Azure
+Android certified application developer
+
+# COMMENT
+Perfect answer, needed to summon up all certificates on the same page

@@ -1,0 +1,17 @@
+# PROMPT (mario-08)
+Koliko riječi diplomski rad smije imati?
+Diplomski rad od uvoda do zaključka mora obuhvatiti 20.000-25.000 riječi.
+
+Koliko stranica mora imatio diplomski rad?
+Ne postoji ograničenje o broju stranica diplomskog rada. Međutim, pravilnikom je definirano kako rad mora imati 20-25 tisuća riječi od uvoda do zaključka. Broj stranica će ovisiti o broju riječi te broju slika.
+
+Koliko maksimalno stavki literature smijem imati u diplomskom radu?
+Ne postoji ograničenje u pravilniku o broju stavki literature. Međutim, savjetujemo minimalno 10 stavki koje su u formatu knjige ili stručnih i znanstvenih članaka. 
+
+Koliko diplomski rad mora imati stranica, te koliko stavki smije imati u literaturi? 
+
+# ANSWER
+Diplomski rad od uvoda do zaključka mora obuhvatiti 20.000-25.000 riječi. Ne postoji ograničenje o broju stranica diplomskog rada, ali broj stranica će ovisiti o broju riječi te broju slika. Ne postoji ograničenje u pravilniku o broju stavki literature, ali se savjetuje minimalno 10 stavki koje su u formatu knjige ili stručnih i znanstvenih članaka.
+
+# COMMENT
+The answer is significantly better and more useful than the one using only the context

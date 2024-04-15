@@ -1,0 +1,132 @@
+# PROMPT (mario-05)
+Koje izborne kolegije mogu odabrati na prijediplomskog studiju programsko inženjerstva?
+
+Treća godina 
+Peti semestar 
+Kolegij ECTS PD VJ TIP
+Automatizacija i orkestracija u IT sustavima 6 30 30 Obvezni 
+Kolaboracijski sustavi 6 30 30 Obvezni 
+Organizacija i management 4 30 15 Obvezni 
+Upravljanje informacijskim sustavima 4 30 15 Obvezni 
+Sigurnosna pohrana i oporavak IT sustava 5 30 30 Izborni 
+Sigurnost informacijskih sustava 25 30 30 Izborni 
+Uvođenje informacijskih sustava u rad 5 30 30 Izborni 
+Virtualizacija korištenjem open source i komercijalnih rješenja 5 30 30 Izborni
+
+Šesti semestar 
+Kolegij ECTS PD VJ TIP
+Implementacija lokalnih bežičnih računalnih mreža 5 30 30 Obvezni 
+Poslovni informacijski sustavi 4 30 15 Obvezni 
+Sistemsko inženjerstvo - Praktikum 6 15 45 Obvezni 
+Završni rad/Praksa 10 0 0 Obvezni 
+ICT alati u projektnom menadžmentu 5 30 30 Izborni 
+Implementacija računarstva u oblaku 5 30 30 Izborni
+Implementacija Voice over IP rješenja 5 30 30 Izborni 
+Softverski definirane mreže 5 30 30 Izborni
+
+Izborni kolegiji koje možete odabrati:
+- Sigurnosna pohrana i oporavak IT sustava
+- Sigurnost informacijskih sustava
+- Uvođenje informacijskih sustava u rad
+- Virtualizacija korištenjem open source i komercijalnih rješenja 
+- ICT alati u projektnom menadžmentu
+- Implementacija računarstva u oblaku
+- Implementacija Voice over IP rješenja
+- Softverski definirane mreže
+
+Poštovani, možete li mi reći koje izborne predmete mogu odabrati na prijediplomskog studiju računalnih igara?
+
+Prva godina 
+Prvi semestar 
+Kolegij ECTS PD VJ TIP
+Konceptualna i primijenjena 2D umjetnost za računalne igre 14 15 30 Obvezni 
+Matematičke osnove računalnih igara 5 30 30 Obvezni 
+Osnove dizajna igara 16 30 30 Obvezni 
+Programiranje 6 30 45 Obvezni 
+Računalni alati u poslovanju 4 15 30 Obvezni 
+Uvod u računalne mreže 5 30 30 Obvezni
+
+Drugi semestar 
+Kolegij ECTS PD VJ TIP
+Konceptualna i primijenjena 2D umjetnost za računalne igre 24 15 30 Obvezni 
+Osnove dizajna igara 25 30 30 Obvezni 
+Produkcija računalnih igara 5 30 30 Obvezni 
+Standardi u primjeni internetske tehnologije 5 30 30 Obvezni 
+Strukture podataka i algoritmi 6 30 30 Obvezni 
+Uvod u baze podataka 5 30 30 Obvezni
+
+Druga godina 
+Treći semestar 
+Kolegij ECTS PD VJ TIP
+Fizikalne osnove računalnih igara 5 30 30 Obvezni 
+Izrada 2D računalnih igara 16 30 45 Obvezni 
+Objektno orijentirano programiranje 6 30 45 Obvezni 
+Oblikovanje baza podataka 5 30 30 Obvezni 
+Osnove 3D modeliranja za računalne igre 14 15 30 Obvezni 
+Teorija razvoja računalnih igara 14 15 30 Obvezni
+
+Četvrti semestar 
+Kolegij ECTS PD VJ TIP
+C++ u razvoju računalnih igara 6 30 30 Obvezni 
+Izrada 2D računalnih igara 26 30 45 Obvezni 
+Osnove 3D modeliranja za računalne igre 24 15 30 Obvezni 
+Razvoj web aplikacija 6 30 30 Obvezni 
+Teorija razvoja računalnih igara 24 15 30 Obvezni 
+Upravljanje razvojem računalnih igara 4 30 30 Obvezni
+
+Treća godina 
+Peti semestar 
+Kolegij ECTS PD VJ TIP
+Izrada 3D računalnih igara 7 30 45 Obvezni 
+Narativni dizajn 5 30 30 Obvezni 
+Osnove 3D animacije za računalne igre 14 15 30 Obvezni 
+Pristup podacima iz programskog koda 5 30 30 Obvezni 
+Programsko inženjerstvo 5 30 30 Obvezni 
+Brzo prototipiranje mehanika igranja 4 15 30 Izborni 
+Interakcija čovjeka i računala 4 15 30 Izborni
+
+Šesti semestar 
+Kolegij ECTS PD VJ TIP
+Dizajniranje razina računalnih igara 5 30 30 Obvezni 
+Interoperabilnost informacijskih sustava 5 30 30 Obvezni 
+Izrada aplikacija virtualne i proširene stvarnosti 6 30 45 Obvezni 
+Izrada vizualnih efekata 14 15 30 Obvezni 
+Timski razvoj računalne igre 16 15 0 Obvezni 
+Edukativne igre i igrificirani alati za učenje 4 15 30 Izborni 
+Osnove 3D animacije za računalne igre 24 15 30 Izborni
+
+Četvrta godina 
+Sedmi semestar 
+Kolegij ECTS PD VJ TIP
+Izrada računalnih igara za više igrača 7 30 45 Obvezni 
+Izrada vizualnih efekata 24 15 30 Obvezni 
+Osnove audio i video produkcije 5 30 30 Obvezni 
+Pokretanje poduzetničkih pothvata 4 30 30 Obvezni 
+Timski razvoj računalne igre 26 15 0 Obvezni 
+Blockchain i NFT u računalnim igrama 4 30 30 Izborni 
+Tehničko pisanje za računalne igre 4 30 30 Izborni
+
+Osmi semestar 
+Kolegij ECTS PD VJ TIP
+Marketing računalnih igara 3 30 15 Obvezni 
+Monetizacija računalnih igara 3 15 30 Obvezni 
+Praksa 6 0 0 Obvezni 
+Timski razvoj računalne igre 36 15 0 Obvezni 
+Uvod u arhitekture pogonskih sustava računalnih igara 6 30 30 Obvezni 
+Završni rad 6 0 0 Obvezni
+
+Izborni kolegiji koje možete odabrati:
+
+
+# ANSWER
+Izborni kolegiji koje možete odabrati na prijediplomskog studiju računalnih igara su:
+- Brzo prototipiranje mehanika igranja
+- Interakcija čovjeka i računala
+- Edukativne igre i igrificirani alati za učenje
+- Osnove 3D animacije za računalne igre
+- Blockchain i NFT u računalnim igrama
+- Tehničko pisanje za računalne igre
+
+
+# COMMENT
+The answer is as expected, all correct.

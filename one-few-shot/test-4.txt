@@ -1,0 +1,33 @@
+# PROMPT (mario-07)
+Sport i rekreacija
+Opće je poznato i znanstveno dokazano da redovita i primjerena tjelesna
+aktivnost čuva i poboljšava ljudsko zdravlje. Nedovoljna tjelesna aktivnost te
+smanjen podražaj na lokomotorni sustav negativno se odražava na normalno
+funkcioniranje svih organa. Tjelesna neaktivnost je četvrti vodeći čimbenik
+rizika smrtnosti u svijetu, dok tjelesno aktivne osobe imaju značajno smanjen
+rizik obolijevanja od različitih bolesti (Svjetska zdravstvena organizacija, 2017.).
+Za organizaciju, provedbu i kontrolu sportsko rekreacijskih programa brine se
+naš voditelj sporta, kojeg možete kontaktirati na sport@algebra.hr.
+
+Kako se mogu prijaviti za sudjelovanje u sportskim aktivnostima na fakultetu?
+Kako biste se prijavili za sudjelovanje u sportskim aktivnostima, kontaktirajte voditelja sporta na email sport@algebra.hr
+
+Koje sportske objekte i prostorije imamo na raspolaganju za vježbanje i natjecanja?
+Za sve informacije vezane uz korištenje sportskih objekata možete se obratiti voditelju sporta na email sport@algebra.hr. Predlažemo također da pratite informacije na infoeduci kako biste saznali o novostima vezanima uz sportske aktivnosti.
+
+Postoje li redoviti termini ili rasporedi za sportske aktivnosti na fakultetu, i kako ih mogu dobiti?
+Postoje redoviti termini i rasporedi. Sve informacije o terminima možete saznati od voditelja sporta, kojeg možete kontaktirati na email adresi sport@algebra.hr. Predlažemo također da pratite informacije na infoeduci gdje su redovito objavljene sve obavijesti vezane uz sportske aktivnosti.
+
+Poštovani, zanima me postoji li nogometna momčad na studiju?
+
+# ANSWER
+First attempt:
+Poštovani, zanima me postoji li nogometna momčad na studiju?
+Da, postoji nogometna momčad na studiju. Za više informacija, kontaktirajte voditelja sporta na email sport@algebra.hr.
+
+Second attempt:
+Poštovani, zanima me postoji li kriket momčad na studiju?
+Nažalost, u kontekstu nema informacija o kriket momčadi na studiju.
+
+# COMMENT
+The first attempt is correct. In the second attempt, the response should apoint to the email contact.

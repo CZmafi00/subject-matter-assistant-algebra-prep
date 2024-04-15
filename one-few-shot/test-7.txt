@@ -1,0 +1,14 @@
+# PROMPT (mario-11)
+Poštovani, nisam uspio prijaviti ispit jer se nisam mogao ulogirati u infoeduku na zadnji dan prijave zbog tehničkih poteškoća. Mogu li prijavi ispit danas?
+Poštovani, s obzirom kako se radi o tehničkom problemu na koji niste mogli utjecati, ispit možete prijaviti tako da pošaljete molbu u referadu. Molim Vas da to napravite već danas. U molbi priložite dokaz o tehničkom problemu kojeg ste imali.
+
+Poštovani, postoji li način da prijavim ispit ukoliko sam propustio rok za prijavu, koji je bio jučer?
+Prema pravilniku nije moguće prijaviti ispit nakon propisanog roka za prijavu. Jedina iznimka je ukoliko se radi o tehničkom problemu na koji niste mogli utjecati. Ukoliko se radi o takvom problemu, pošaljite molbu studentskoj referadi s opisom tehničkog problema koji vas je spriječio u prijavi.
+
+Ukoliko infoeduka nije radila na zadnji dan prijave ispita, smatra li se to opravdanim razlogom i može li student prijaviti ispit?
+
+# ANSWER
+Da, ukoliko infoeduka nije radila na zadnji dan prijave ispita, smatra se to opravdanim razlogom i student može prijaviti ispit. U tom slučaju, student treba poslati molbu studentskoj referadi s opisom tehničkog problema koji ga je spriječio u prijavi.
+
+# COMMENT
+The answer is perfect. This is exception that should not occure, so the answer can't be the part of the College standard rules. It could be learned from experience.

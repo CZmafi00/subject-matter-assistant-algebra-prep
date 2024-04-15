@@ -1,0 +1,35 @@
+# PROMPT (sandra)
+Možete li mi dati informaciju o radnom vremenu studenske referade?
+
+Radno vrijeme referade
+
+Ponedjeljak i utorak:
+radno vrijeme: 10:00 do 18:00 sati
+za studente i stranke: 12:00 do 18:00 sati
+
+Srijeda, četvrtak i petak:
+radno vrijeme: 08:00 do 16:00 sati
+za studente i stranke: 08:00 do 14:00 sati
+
+U koje vrijeme mogu doci u studensku referadu na konzultacije?
+
+Radno vrijeme referade
+
+Ponedjeljak i utorak:
+radno vrijeme: 10:00 do 18:00 sati
+za studente i stranke: 12:00 do 18:00 sati
+
+Srijeda, četvrtak i petak:
+radno vrijeme: 08:00 do 16:00 sati
+za studente i stranke: 08:00 do 14:00 sati
+
+Koje je radno vrijeme referade?
+
+# ANSWER
+Radno vrijeme studenske referade je:
+Ponedjeljak i utorak: radno vrijeme: 10:00 do 18:00 sati za studente i stranke: 12:00 do 18:00 sati
+
+Srijeda, četvrtak i petak: radno vrijeme: 08:00 do 16:00 sati za studente i stranke: 08:00 do 14:00 sati
+
+# COMMENT
+The answer is almost hardcoded. Such query should ne answered frequently.

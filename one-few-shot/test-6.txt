@@ -1,0 +1,17 @@
+# PROMPT (mario-09)
+Koja je propisana dolaznost za redovite studente?
+Kako bi ostvarili pravo za potpis, redovni studenti su dužni ostvariti dolaznost koja iznosi 70% za predavanja i 80% za vježbe.
+
+Koja je propisana dolaznost za izvanredne studente?
+Kako bi ostvarili pravo za potpis, izvanredni studenti su dužni ostvariti dolaznost koja iznosi 50% za predavanja i 60% za vježbe.
+
+Koliko sati mogu izostati s nastave, a da ne izgubim pravo na potpis?
+Za ostvarivanje prava za potpis, redovni studenti moraju imati dolaznost 70% predavanja i 80% vježbe. Izvanredni studenti moraju imati dolaznost 50% predavanja, 60% vježbe.
+
+Kolika je propisana dolaznost za redovne, a kolika za izvanredne studente?
+
+# ANSWER
+Propisana dolaznost za redovne studente je 70% za predavanja i 80% za vježbe, a za izvanredne studente 50% za predavanja i 60% za vježbe.
+
+# COMMENT
+The answer is correct and there is no confusion that could happen with context.

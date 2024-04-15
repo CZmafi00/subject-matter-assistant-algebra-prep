@@ -1,0 +1,17 @@
+# PROMPT (ivana-3)
+Koja je propisana dolaznost za redovite studente?
+Kako bi ostvarili pravo za potpis, redovni studenti su dužni ostvariti dolaznost koja iznosi 70% za predavanja i 80% za vježbe.
+
+Koja je propisana dolaznost za izvanredne studente?
+Kako bi ostvarili pravo za potpis, izvanredni studenti su dužni ostvariti dolaznost koja iznosi 50% za predavanja i 60% za vježbe.
+
+Koliko sati mogu izostati s nastave, a da ne izgubim pravo na potpis?
+Za ostvarivanje prava za potpis, redovni studenti moraju imati dolaznost 70% predavanja i 80% vježbe. Izvanredni studenti moraju imati dolaznost 50% predavanja, 60% vježbe.
+
+Koliko posto nastave smijem izostati bez gubitka prava polaganja ispita?
+
+# ANSWER
+Redovni studenti mogu izostati najviše 30% nastave, a izvanredni studenti najviše 40% nastave, bez gubitka prava polaganja ispita.
+
+# COMMENT
+The answer is not absolutelly correct since the information about the lecture and exercises are nto given.
